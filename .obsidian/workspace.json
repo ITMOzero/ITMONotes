@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "f6d08840a139a51f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdbb7c1177856ef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669aa3bc8a11bac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math Analysis/September 2nd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "September 2nd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c8838e5bf4206d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "08cec3d88193207b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a6a312399cec153",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5d0c62ce2bd9fec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4faf14d9565c3406",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "4379805225dc1615",
+    "type": "split",
+    "children": [
+      {
+        "id": "dad431d6dd627753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad63a4790a714a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math Logic/September 7th.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for September 7th"
+            }
+          },
+          {
+            "id": "36ecd8fe83e9844b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math Logic/September 7th.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from September 7th"
+            }
+          },
+          {
+            "id": "86af024df5a8104b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45807b49d12c109d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math Logic/September 7th.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of September 7th"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "669aa3bc8a11bac8",
+  "lastOpenFiles": [
+    "OS/September 4th.md",
+    "OS/September 18th.md",
+    "OS/September 11th.md",
+    "Math Logic/Colloq 1.md",
+    "History/November 14th.md",
+    "Math Analysis/September 2nd.md",
+    "Math Logic/September 7th.md",
+    "Math Logic/September 5th.md",
+    "Images/Pasted image 20241023215530.png",
+    "Images/Pasted image 20241023215507.png",
+    "Images/Pasted image 20241023215400.png",
+    "Images/Pasted image 20241023215321.png",
+    "Images/Pasted image 20241023215157.png",
+    "Images/Pasted image 20241023214919.png",
+    "Welcome.md",
+    "Images/Pasted image 20241023211036.png",
+    "Images/Pasted image 20241023205608.png",
+    "Differential equations/September 6th.md",
+    "Differential equations/September 13th.md",
+    "Уравнения.md",
+    "History/September 19th.md",
+    "History/September 5th.md",
+    "Images/Pasted image 20240909130733.png",
+    "Images/Pasted image 20240907201950.png",
+    "Images",
+    "Differential equations",
+    "Math Logic",
+    "History",
+    "OS",
+    "Math Analysis"
+  ]
+}

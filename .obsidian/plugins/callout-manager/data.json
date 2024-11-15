@@ -1,0 +1,70 @@
+{
+  "callouts": {
+    "custom": [
+      "proof",
+      "theorem",
+      "hence"
+    ],
+    "settings": {
+      "proof": [
+        {
+          "changes": {
+            "icon": "lucide-baseline"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "0, 0, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 255, 255"
+          }
+        }
+      ],
+      "theorem": [
+        {
+          "changes": {
+            "icon": "lucide-book-open-check",
+            "color": "232, 38, 38"
+          }
+        }
+      ],
+      "hence": [
+        {
+          "changes": {
+            "icon": "lucide-arrow-big-right-dash"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 174, 0"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 174, 0"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
