@@ -16,7 +16,7 @@
 \vdots & \vdots & \ddots &\vdots \\
 {\partial f_m \over \partial x_1}(x) & {\partial f_m \over \partial x_2}(x) & \cdots & {\partial f_m \over \partial x_n}(x)
 \end{pmatrix}$$
-
+	
 >[!done] Правило дифференцирования композиции
 >$$] \; f: X \to Y, \;\; \varphi : U \to X, \;\; h : U \to Y\;\;\;h = f \circ \varphi$$
 >$$d_{u_0}(f\circ\varphi) = d_{x_0}(f) \cdot d_{u_0}(\varphi)$$

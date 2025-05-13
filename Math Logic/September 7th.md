@@ -45,7 +45,10 @@
 >7. $\beta \rightarrow \alpha \vee \beta$
 >8. $(\alpha \rightarrow \gamma) \rightarrow (\beta \rightarrow \gamma) \rightarrow (\alpha \vee \beta \rightarrow \gamma)$
 >9. $(\alpha \rightarrow \beta) \rightarrow (\alpha \rightarrow \neg \beta) \rightarrow \neg \alpha$
->10. $\neg \neg \alpha \rightarrow \alpha$
+>10. $\neg \neg \alpha \rightarrow \alpha$, ( в ИИВ) $\alpha \to \neg \alpha \to \beta$
+>11. (ИП) $(\forall x.\varphi) \to \varphi[x:=\theta]$
+>12. (ИП) $\varphi[x:=\theta] \to (\exists x.\varphi)$
+>13. $\psi[x := 0] \& (\forall x.\psi \to \psi[x := x']) \to \psi$
 
 >[!tip] Правило вывода Modus Ponens
 >$$(\alpha \wedge (\alpha \rightarrow \beta)) \rightarrow \beta$$
@@ -75,3 +78,4 @@
 
 >[!done] Общезначимость правила Modus Ponens
 >![[Pasted image 20240907201950.png]]
+

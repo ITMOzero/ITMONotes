@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbb7c1177856ef9",
+        "id": "8622513b17c9cc73",
         "type": "tabs",
         "children": [
           {
-            "id": "669aa3bc8a11bac8",
+            "id": "dac857903c8d6314",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math Analysis/September 2nd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "September 2nd"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "right": {
     "id": "4379805225dc1615",
@@ -139,19 +136,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Logic/September 7th.md"
+                "file": "History/Exam.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of September 7th"
+              "title": "Outline of Exam"
+            }
+          },
+          {
+            "id": "41c13b2f5e851342",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,40 +167,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "669aa3bc8a11bac8",
+  "active": "41c13b2f5e851342",
   "lastOpenFiles": [
-    "OS/September 4th.md",
-    "OS/September 18th.md",
-    "OS/September 11th.md",
-    "Math Logic/Colloq 1.md",
+    "Untitled.canvas",
+    "English/May 13th.md",
+    "Probability theory/February 5th.md",
     "History/November 14th.md",
-    "Math Analysis/September 2nd.md",
+    "Differential equations/September 27th.md",
+    "Discrete Math/CR PF.md",
+    "Task4.md",
+    "Discrete Math",
+    "Differential equations/October 11th.md",
+    "Differential equations/September 6th.md",
+    "History/April 17th.md",
+    "History/March 20th.md",
+    "History/February 20th.md",
+    "History/December 12th.md",
+    "History/November 28th.md",
+    "History/Exam.md",
+    "Biology/April 8th.md",
+    "Biology/March 11th.md",
+    "History/February 6th.md",
+    "History/September 19th.md",
+    "History/Средневековая алхимия.md",
+    "History/September 5th.md",
+    "Welcome.md",
+    "Biology/February 25th.md",
+    "Biology/February 18th.md",
+    "Images/Pasted image 20250311174550.png",
+    "Images/Pasted image 20250311171516.png",
     "Math Logic/September 7th.md",
     "Math Logic/September 5th.md",
-    "Images/Pasted image 20241023215530.png",
-    "Images/Pasted image 20241023215507.png",
-    "Images/Pasted image 20241023215400.png",
-    "Images/Pasted image 20241023215321.png",
-    "Images/Pasted image 20241023215157.png",
-    "Images/Pasted image 20241023214919.png",
-    "Welcome.md",
-    "Images/Pasted image 20241023211036.png",
-    "Images/Pasted image 20241023205608.png",
-    "Differential equations/September 6th.md",
-    "Differential equations/September 13th.md",
-    "Уравнения.md",
-    "History/September 19th.md",
-    "History/September 5th.md",
-    "Images/Pasted image 20240909130733.png",
-    "Images/Pasted image 20240907201950.png",
+    "Biology",
+    "Probability theory",
+    "Optimization Methods",
+    "English",
+    "Images/Pasted image 20241212171613.png",
+    "Images/Pasted image 20241212170724.png",
+    "Images/Pasted image 20241212000020.png",
+    "Images/Pasted image 20241211235949.png",
+    "Images/Pasted image 20241211222353.png",
+    "Images/Pasted image 20241211222050.png",
+    "Images/Pasted image 20241211222006.png",
+    "Images/Pasted image 20241211211142.png",
+    "Differential equations/Методы решения",
+    "September 13th",
     "Images",
     "Differential equations",
-    "Math Logic",
-    "History",
-    "OS",
-    "Math Analysis"
+    "Math Logic"
   ]
 }

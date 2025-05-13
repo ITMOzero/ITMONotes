@@ -13,7 +13,8 @@
   },
   {
     "color": "124, 77, 255",
-    "char": "~"
+    "char": "~",
+    "icon": "lucide-crown"
   },
   {
     "color": "0, 184, 212",
